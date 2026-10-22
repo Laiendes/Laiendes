@@ -49,8 +49,6 @@ This project was developed as my final project for Harvard University's CS50x.
 
 ### 📫 Let's Connect
 
-### 📫 Let's Connect
-
 I'm interested in opportunities to grow as a backend developer and contribute to software projects using PHP and Laravel.
 
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/laiendes-santana-b18351446/)
